@@ -1,0 +1,7 @@
+PyYAML
+beautifulsoup4
+sqlparse
+python-dateutil
+chardet
+json5
+poyo
